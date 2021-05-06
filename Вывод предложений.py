@@ -35,6 +35,7 @@ class RightParagraph:
             print(' ' * (self.number - len(self.base)) + self.base)
 
 
+'''
 lp = LeftParagraph(8)
 lp.add_word('btdwmgil')
 lp.add_word('sfwvgybz')
@@ -62,3 +63,4 @@ rp.add_word('r')
 rp.add_word('ehypl')
 rp.end()
 print()
+'''
